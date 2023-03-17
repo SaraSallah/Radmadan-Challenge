@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ramdan_Challenge</string>
+    <string name="prayertimes">Prayer Times</string>
+    <string name="amsak_time">Amsak</string>
+    <string name="fajer">Fajer</string>
+    <string name="dhuhr">Dhuhr</string>
+    <string name="asr">Asr</string>
+    <string name="isha_a">Isha\'a</string>
+    <string name="_07_45_pm">07:45 PM</string>
+    <string name="_06_15_pm">06:15 PM</string>
+    <string name="_03_38_pm">03:38 PM</string>
+    <string name="_12_10_pm">12:10 PM</string>
+    <string name="_04_39am">04:39AM</string>
+    <string name="_04_09_am">04:09 AM</string>
+</resources>
